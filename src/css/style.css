@@ -1,0 +1,36 @@
+@import url('./palette.css');
+
+#home {
+  background: url("../img/jumbotron_bg.jpg") no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.container-fluid {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+ul {
+  list-style: none;
+}
+
+#privada_213_2 .card-img-top {
+  max-height: 250px;
+}
+
+#privada_213_3 .card-img-top {
+  max-height: 250px;
+}
+
+div.card {
+  border: none;
+  border-radius: 0;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#loft_2 .card-img-top {
+  max-height: 250px;
+}
